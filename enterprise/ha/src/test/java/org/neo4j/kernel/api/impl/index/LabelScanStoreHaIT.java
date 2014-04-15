@@ -23,7 +23,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
 
-import org.apache.lucene.store.LockObtainFailedException;
+import shaded.org.apache.lucene.store.LockObtainFailedException;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

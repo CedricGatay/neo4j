@@ -26,7 +26,7 @@ import java.util.Map;
 import java.util.Set;
 
 import com.sun.jersey.api.core.HttpContext;
-import org.apache.lucene.search.Sort;
+import shaded.org.apache.lucene.search.Sort;
 
 import org.neo4j.graphalgo.CommonEvaluators;
 import org.neo4j.graphalgo.CostEvaluator;

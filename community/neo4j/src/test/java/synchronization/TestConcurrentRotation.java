@@ -21,7 +21,7 @@ package synchronization;
 
 import java.util.concurrent.CountDownLatch;
 
-import org.apache.lucene.index.IndexWriter;
+import shaded.org.apache.lucene.index.IndexWriter;
 import org.junit.Test;
 
 import org.neo4j.graphdb.Node;
